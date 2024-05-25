@@ -3,7 +3,7 @@
 
 
 
-icons/python/python-original.svg
+
 
 
 
