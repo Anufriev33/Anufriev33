@@ -1,3 +1,2 @@
 ## Hi there 👋
-[(https://github-profile-trophy.vercel.app/Anufriev33=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-](https://github-profile-trophy.vercel.app/Anufriev33=ryo-ma&theme=dark_dimmed)
+[![trophy](https://github-profile-trophy.vercel.app/Anufriev33ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
